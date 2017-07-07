@@ -24,3 +24,15 @@ h3 {
 p {
   font-size: 14px;
 }
+
+a {
+  font-size: 18px;
+  color: white;
+}
+
+.footer {
+  color: white;
+  font-size: 11px;
+  text-align: left;
+  background-color: dimgray;
+}
