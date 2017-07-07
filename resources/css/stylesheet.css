@@ -5,8 +5,8 @@ body {
 }
 
 .background {
-  background-image: url("../images/the-flatiron-building.png")
   color: white;
+  background-image: url("../images/the-flatiron-building.png")
 }
 
 h1 {
